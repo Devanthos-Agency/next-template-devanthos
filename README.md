@@ -2,15 +2,15 @@
 
 Una plantilla moderna y lista para producción de **Next.js 15** con **Tailwind CSS 4**, **shadcn/ui** y **TypeScript**. Diseñada por **Devanthos** para acelerar el desarrollo de aplicaciones web modernas.
 
-![Next.js](https://img.shields.io/badge/Next.js-15.5.4-black)
-![React](https://img.shields.io/badge/React-19.1.0-blue)
+![Next.js](https://img.shields.io/badge/Next.js-16.0.0-black)
+![React](https://img.shields.io/badge/React-19.2.0-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Características
 
-- 🔥 **Next.js 15** con App Router y React 19
+- 🔥 **Next.js 16** con App Router y React 19
 - 🎨 **Tailwind CSS 4** para diseño moderno y responsivo
 - 🧩 **shadcn/ui** - Componentes UI accesibles y customizables
 - 📝 **TypeScript** para desarrollo type-safe
@@ -24,8 +24,8 @@ Una plantilla moderna y lista para producción de **Next.js 15** con **Tailwind 
 
 ### Core
 
-- **Framework**: Next.js 15.5.4
-- **React**: 19.1.0
+- **Framework**: Next.js 16.0.0
+- **React**: 19.2.0
 - **TypeScript**: 5
 - **Styling**: Tailwind CSS 4
 - **Package Manager**: pnpm
